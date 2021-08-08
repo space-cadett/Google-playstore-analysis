@@ -12,3 +12,5 @@ Packages used :
    scipy
    matplotlib
    sklearn
+   wordcloud
+   seaborn
